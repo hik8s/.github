@@ -7,23 +7,18 @@ labels: ["feature"]
 
 
 ### Description:
-
 **[What it does and how users benefit?]**
 
-This feature..
+This feature 
 
 ### Reason:
-
 **[Why valueable?]**
 
-It is required to..
+It is required to 
 
 ### Definition of Done:
-
 - [ ] impl..
 - [ ] change..
 
-
 ### Additional Context:
-
 **[..if required to clarify the issue.]**
