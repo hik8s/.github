@@ -2,7 +2,7 @@
 name: Feature request
 about: File a feature request
 title: "feat(<scope>): "
-labels: ["feature"]
+labels: "enhancement"
 ---
 
 
